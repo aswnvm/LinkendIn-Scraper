@@ -1,4 +1,4 @@
-# LinkedIn Job Scraper
+# LinkendIn Scraper
 
 This script scrapes job listings from LinkedIn using `BeautifulSoup` and `requests`. It extracts job titles, company names, locations, job descriptions, and URLs, then saves the data to an Excel file.
 
